@@ -4,6 +4,9 @@ Dark Sublime is a SIMBL extension for OS X that darkens Sublime Text 3's window 
 ## Building
 Dark Sublime uses [Theos by DHowett](https://github.com/DHowett/theos). Just ```make package install``` to install the package. Installing the .deb will fail as it requires superuser permission, but the package will be manually installed to the right directory. After installing, open EasySIMBL and enable the Plugin. Restart Sublime Text and have fun.
 
+## Issues
+Hovering over the window buttons (close, minimize, maximize) adds a bad-looking white line above those buttons. This is being looked into, pull requests are welcome.
+
 ## Requirements
 Dark Sublime uses SIMBL and requires EasySIMBL.
 
