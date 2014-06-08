@@ -12,6 +12,7 @@ Dark Sublime uses SIMBL and requires EasySIMBL.
 
 ## Credits
 The titlebar image is taken from [SL3's Soda Theme](https://github.com/buymeasoda/soda-theme/)
+
 Thanks to [kirb](https://github.com/kirb) for helping me getting started with SIMBL plugins.
 
 ## License
